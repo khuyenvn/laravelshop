@@ -6,15 +6,17 @@ This project using for sales management developed with  Laravel Framework.
 ## Development Environment
 ### Requirements
 
-
 Docker and docker-compose are required to run this application on your local machine.
 
-Docker version 18.03.1-ce
-docker-compose version 1.21.1
+- [Docker](https://www.docker.com/) version 18.03.1-ce
+- [docker-compose](https://docs.docker.com/compose/) version 1.21.1
+
+```
 $ docker -v
 Docker version 18.03.1-ce, build 9ee9f40
 $ docker-compose -v
 docker-compose version 1.21.1, build 5a3f1a3
+```
 
 Laravel 5.6.*
 
